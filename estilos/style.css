@@ -1,9 +1,22 @@
-/* 
-  Variáveis para cores:
-  --fundo-principal
-  --texto
-  --texto-inverso
-  --destaque
-  --destaque-inverso
-  --fundo-card
-*/
+@charset "UTF-8";
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+/* Variáveis para cores: */
+:root{
+  --fundo-principal: #f5f5f5;
+  --texto: #222222;
+  --texto-inverso: #ffffff
+  --destaque: #0077ff;
+  --destaque-inverso: #66bbff;
+  --fundo-card: #ffffff
+}
+
+body{
+  
+}
